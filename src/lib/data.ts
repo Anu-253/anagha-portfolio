@@ -50,7 +50,7 @@ export const data = {
       github: "https://github.com/Anu-253/AI-Fitness-Assistant",
       demo: "", // add live URL if deployed
       // Place a screenshot at /public/projects/fitness-ai.png
-      image: "/projects/fitness-ai-placeholder.svg",
+      image: "/fitness-ai-placeholder.svg",
     },
     {
       id: 2,
@@ -72,7 +72,7 @@ export const data = {
       github: "https://github.com/Anu-253/AI-Music-Mood-Generator",
       demo: "", // add Streamlit Cloud URL if deployed
       // Place a screenshot at /public/projects/music-ml.png
-      image: "/projects/music-ml-placeholder.svg",
+      image: "/music-ml-placeholder.svg",
     },
     {
       id: 3,
