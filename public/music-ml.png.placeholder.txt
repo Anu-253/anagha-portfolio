@@ -1,0 +1,4 @@
+REPLACE THIS FILE with a real screenshot named: music-ml.png
+Recommended: Take a screenshot of your Streamlit Music Mood app.
+Size: ~1200x630px (16:9 or 2:1 ratio)
+Place at: /public/projects/music-ml.png
